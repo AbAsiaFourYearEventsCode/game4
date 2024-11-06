@@ -37,7 +37,7 @@ function startGame(level) {
             window.location.href = "Treasure Hunt/index-1.html";
             break;
         case 3:
-            window.location.href = "Word Search/wordsearch.html";
+            window.location.href = "Word Search/Wordsearch.html";
             break;
         case 4:
             window.location.href = "Crossword/crossword.html";
